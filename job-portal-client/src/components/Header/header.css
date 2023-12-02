@@ -1,0 +1,9 @@
+.header-nav{
+    display: flex;
+    justify-content: space-between;
+
+}
+.nav-outer{
+    padding: 0 120px;
+    height: 80px;
+}

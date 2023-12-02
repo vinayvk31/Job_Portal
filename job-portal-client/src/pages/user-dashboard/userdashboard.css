@@ -1,0 +1,5 @@
+.u-dashboard-outer{
+    display: flex;
+    padding: 40px 120px;
+    flex-direction: row;
+}

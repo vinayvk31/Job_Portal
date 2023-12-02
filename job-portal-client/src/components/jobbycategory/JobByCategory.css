@@ -1,0 +1,33 @@
+.outer-jbc{
+    text-align: center; 
+    padding: 40px 0;
+}
+.outer-jbc h1{
+    text-align: center;
+}
+.main-jbc{
+    padding: 40px 120px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+
+
+/* ***********************SECTOR************************* */
+.sectorOuter{
+    align-items: center;
+    width: 30%;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    border: 1px solid gray;
+    background-color: greenyellow;
+    text-decoration: none;
+}
+
+.sectorOuter:hover{
+    opacity: 0.8;
+}

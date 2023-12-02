@@ -1,0 +1,15 @@
+.jl-outer{
+    text-align: center; 
+    padding: 40px 0;
+}
+.jl-main{
+    padding: 40px 120px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 20px;
+}
+.jl-outer h1{
+ text-align: center;
+}

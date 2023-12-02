@@ -1,0 +1,16 @@
+.companyouter{
+    padding: 120px 60px ;
+}
+
+.company-main a{
+    text-decoration: none;
+    border: 1px springgreen solid;
+    padding: 4px ;
+    color: black;
+    background-color: whitesmoke;
+    font-size: 22px;
+}
+.company-main{
+    display: flex;
+    gap: 40px;
+}
